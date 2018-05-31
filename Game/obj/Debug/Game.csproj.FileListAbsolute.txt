@@ -1,0 +1,19 @@
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\bin\Debug\Game.exe.config
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\bin\Debug\Game.exe
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\bin\Debug\Game.pdb
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\obj\Debug\Game.exe
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\obj\Debug\Game.pdb
+C:\Users\boyko\OneDrive\Рабочий стол\game\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Game\Game\bin\Debug\Game.exe.config
+D:\Game\Game\obj\Debug\Game.exe
+D:\Game\Game\obj\Debug\Game.pdb
+D:\Game\Game\bin\Debug\Game.exe
+D:\Game\Game\bin\Debug\Game.pdb
+D:\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Game\Game\obj\Debug\Game.Form1.resources
+D:\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
